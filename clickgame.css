@@ -1,0 +1,26 @@
+#object{
+    width:200px;
+    height:200px;
+    background-color: green;
+    position: relative;
+    display: none;
+}
+
+.margin {
+    margin:5px 30px;
+    width:90%;
+    height:90%;
+    cursor: crosshair; 
+    border: 5px solid;
+    position:absolute;
+}
+.title{
+    margin-top:10px;
+    margin-left:30px;
+}
+
+#image{
+   background-image: url("level2.jpg");
+   height:100%;
+   width:100%;   
+}
